@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ishandutta2007)](https://git.io/streak-stats)
-- 😄 I have interests in HPC/Generative AI/Web3: ...
+- 😄 I have interests in HPC/Generative AI/Web3
 - 🔭 I’m currently working on ChatGPT integrations
 - 🌱 I’m currently learning Langchain and Mediachain
 - 👯 I’m looking to collaborate on ChatGPT/AI/Blockchain

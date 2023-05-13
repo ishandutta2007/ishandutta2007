@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ishan</h1>
-<h3 align="center">A passionate about AI/Blockchain</h3>
+<h3 align="center">A techie passionate about AI/Blockchain</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)

@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
-<h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A techie passionate about AI/Blockchain</h3>
 
 

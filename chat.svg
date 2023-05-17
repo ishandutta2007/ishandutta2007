@@ -271,7 +271,7 @@
   <!-- Hi, I'm Ishan -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Ishan</text>
+    <text x="15" y="27">Hi, I'm Ishan </text>
   </g>
 
   <!-- typing 2 -->
@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Ex-Software Engineer at FAANG companies</text>
-    <text x="15" y="50">Loves Blockchain/AI</text>
+    <text x="15" y="27"> Ex-Software Engineer at FAANG companies </text>
+    <text x="15" y="50"> Loves Blockchain/AI </text>
   </g>
 
   <!-- typing 3 -->
@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Google Developers Expert for ML and GCP</text>    
+    <text x="15" y="27"> Google Developers Expert for ML and GCP </text>    
   </g>
 
 
@@ -345,7 +345,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="500" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Entreprennuer and Avid opensource contriutor Fellow</text>    
+    <text x="15" y="27"> Entreprennuer and Avid opensource contriutor </text>    
   </g> 
 
 

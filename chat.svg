@@ -344,7 +344,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="500" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="440" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> Entreprennuer and Avid opensource contriutor </text>    
   </g> 
 
@@ -354,7 +354,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="445" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/ishandutta2007</a> </text>
   </g>
 </svg>

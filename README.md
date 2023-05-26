@@ -3,6 +3,9 @@
 
 <h3 align="center">A techie passionate about AI/Blockchain</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/ishandutta2007/output/github-contribution-grid-snake.svg">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
 

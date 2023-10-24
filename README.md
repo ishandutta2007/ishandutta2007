@@ -9,6 +9,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ishandutta2007)](https://git.io/streak-stats)
 
 

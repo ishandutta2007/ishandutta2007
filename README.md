@@ -9,7 +9,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true)
+<!-- ![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
+
+<p align="center">
+<img align="" height='150px' src="https://github-readme-stats-aryashah2k.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
+<br>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ishandutta2007)](https://git.io/streak-stats)
 

@@ -3,10 +3,6 @@
 
 <h3 align="center">A techie passionate about AI/Blockchain</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/ishandutta2007/output/github-contribution-grid-snake.svg">
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
@@ -38,13 +34,6 @@
 
 
 
-<!--
-**ishandutta2007/ishandutta2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/ishandutta2007/output/github-contribution-grid-snake.svg">
+</p>

@@ -111,6 +111,8 @@
   <a href="https://github.com/sponsors/ishandutta2007/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
+<!--
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -130,6 +132,9 @@
 
   <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+-->
+
+<!--
 
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
@@ -151,6 +156,8 @@
     <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
+
+-->
 
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>

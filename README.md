@@ -2,6 +2,7 @@
 [![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
 <h3 align="center">A techie passionate about AI/Blockchain</h3>
+<h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -1,10 +1,12 @@
 ### Hi there 👋
 [![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
-<h3 align="center">A techie passionate about AI/Blockchain</h3>
-<h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
-<h4 align="center"> One of Top 30 Spoj users from India [[https://committers.top/india_private](https://www.spoj.com/ranks/users/IN/)] </h4>
-<h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
+
+- <h3 align="center">A techie passionate about AI/Blockchain</h3>
+- <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
+- <h4 align="center"> One of Top 30 Spoj users from India [[https://committers.top/india_private](https://www.spoj.com/ranks/users/IN/)] </h4>
+- <h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
+- <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
 
 [![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -3,7 +3,7 @@
 
  <h3 align="center">A techie passionate about AI/Blockchain</h3>
  <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
- <h4 align="center"> One of Top 30 Spoj users from India [[https://committers.top/india_private](https://www.spoj.com/ranks/users/IN/)] </h4>
+ <h4 align="center"> One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
  <h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
  <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
 

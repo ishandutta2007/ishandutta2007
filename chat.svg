@@ -296,7 +296,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> Ex-Software Engineer at FAANG companies </text>
-    <text x="15" y="50"> Loves AI & Blockchain </text>
+    <text x="15" y="50"> Loves AI and Blockchain </text>
   </g>
 
   <!-- typing 3 -->
@@ -355,6 +355,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="520" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/ishandutta2007 or email</a> </text>
+    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/ishandutta2007</a> or email</text>
   </g>
 </svg>

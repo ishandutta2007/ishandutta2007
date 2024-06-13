@@ -351,10 +351,9 @@
 
 
 
-
   <!-- Have a great... -->
-  <g transform="translate(10, 336)" class="msg-7">
-    <rect width="520" height="42" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 336)" class="msg-6">
+    <rect width="550" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/ishandutta2007</a> or email</text>
   </g>
 </svg>

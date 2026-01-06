@@ -202,15 +202,6 @@
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/ishandutta2007/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/ishandutta2007/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ishandutta2007's streak" src="https://streak-stats.demolab.com/?user=ishandutta2007&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 

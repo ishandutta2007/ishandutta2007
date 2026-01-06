@@ -20,13 +20,6 @@
 <br>
 
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=ishandutta2007)](https://git.io/streak-stats)
-
-
-  <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
-    <img alt="GitHub Streak" title="GitHub Streak" src="https://streak-stats.demolab.com?user=ishandutta2007"/>
-  </a>
-
 
 - 😄 I have interests in HPC/Generative AI/Web3/RPA
 - 🔭 I’m currently working on ChatGPT integrations

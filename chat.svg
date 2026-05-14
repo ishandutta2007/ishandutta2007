@@ -1,4 +1,4 @@
-<svg width="550" height="398" viewBox="0 0 550 398" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="430" viewBox="0 0 550 430" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -49,17 +49,21 @@
       animation: wait 7.5s, fade-in-out 1.5s 7.5s;
     }
 
-    .msg-4 {
-      animation: wait 9.2s, msg-4 0.2s 9.2s;
-    }
-
     .msg-5 {
       animation: wait 11.7s, msg-5 0.2s 11.7s;
     }
 
     .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 16.7s;
-    }    
+      animation: wait 14.2s, msg-6 0.2s 14.2s;
+    }
+
+    .msg-7 {
+      animation: wait 16.7s, msg-7 0.2s 16.7s;
+    }
+
+    .msg-8 {
+      animation: wait 19.2s, msg-8 0.2s 19.2s;
+    }
     
     .typing-5 {
       opacity: 0;
@@ -172,6 +176,17 @@
       100% {
         opacity: 1;
         transform: translate(10px, 336px);
+      }
+    }    
+
+    @keyframes msg-8 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 389px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 384px);
       }
     }    
     
@@ -356,5 +371,11 @@
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="550" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/ishandutta2007">https://twitter.com/ishandutta2007</a> or email</text>
+  </g>
+
+  <!-- Top Repos -->
+  <g transform="translate(10, 384)" class="msg-8">
+    <rect width="480" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Here are my top repos <a xlink:href="https://ishandutta2007.github.io/star-history-user/?user=ishandutta2007">Top Repos ishandutta2007</a></text>
   </g>
 </svg>

@@ -8,14 +8,20 @@
  <h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
  <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
 
-[![committers.top badge](https://user-badge.committers.top/india_private/ishandutta2007.svg)](https://user-badge.committers.top/india_private/ishandutta2007)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+
+ [![committers.top badge](https://user-badge.committers.top/india_private/ishandutta2007.svg)](https://user-badge.committers.top/india_private/ishandutta2007)
+<a href="https://github.com/ishandutta2007">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+
+</p>
 
 <!-- ![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+ <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 

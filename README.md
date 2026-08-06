@@ -21,10 +21,15 @@
 
 <!-- ![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
 
-<h2>📊 Github Stats and Activity</h2>
+<h1>📊 Github Stats and Activity</h1>
+
 <p align="center">
- <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+    <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture>
+    </a>
+    <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
+    </a>
 </p>
 
 <br>
@@ -37,8 +42,8 @@
 
 <br>
 
-<div align="center"> 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ishandutta2007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishandutta2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ishandutta2007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishandutta2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
 <br>

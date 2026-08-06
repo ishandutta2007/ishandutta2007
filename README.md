@@ -273,8 +273,8 @@
                 <br>Linux
             </td>
             <td align="center" width="96">
-                <img src="https://catboost.ai/favicon.svg" width="48" height="48" alt="CatBoost" />
-                <br>CatBoost
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="48" height="48" alt="Hadoop" />
+                <br>Hadoop
             </td>
         </tr>
         <tr>
@@ -303,10 +303,6 @@
                 <br>Chainer
             </td>
             <td align="center" width="96">
-                <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" width="48" height="48" alt="TensorRT" />
-                <br>TensorRT
-            </td>
-            <td align="center" width="96">
                 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="48" height="48" alt="Java" />
                 <br>Java
             </td>
@@ -314,12 +310,12 @@
                 <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" width="48" height="48" alt="Android" />
                 <br>Android
             </td>
-        </tr>
-        <tr>
             <td align="center" width="96">
                 <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" width="48" height="48" alt="PowerShell" />
                 <br>PowerShell
             </td>
+        </tr>
+        <tr>
             <td align="center" width="96">
                 <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
                 <br>Azure
@@ -331,10 +327,6 @@
             <td align="center" width="96">
                 <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" width="48" height="48" alt="GitLab" />
                 <br>GitLab
-            </td>
-            <td align="center" width="96">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="48" height="48" alt="Hadoop" />
-                <br>Hadoop
             </td>
         </tr>
     </table>

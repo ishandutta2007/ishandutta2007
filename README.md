@@ -390,17 +390,11 @@
     <a href="https://github.com/ishandutta2007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ishandutta2007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@ishandutta2007's github-readme-streak-stats" /></a>
 </p>
 
-<!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@ishandutta2007">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+    <a href="https://wakatime.com/@9b77cc98-5693-4a5a-a891-aebb4213974a"><img src="https://wakatime.com/badge/user/9b77cc98-5693-4a5a-a891-aebb4213974a.svg" alt="Total time coded since May 21 2015" /></a>
 </p>
-<!-- activity graph heroku-app end -->
 
 <p align="center">
-    <a href="https://wakatime.com/@ishandutta2007"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ishandutta2007&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@ishandutta2007's wakatime stats" /></a>
-
     <a href="https://github.com/ishandutta2007?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2" width="38%" alt="@ishandutta2007's trophy stats" /></a>
 </p>
 

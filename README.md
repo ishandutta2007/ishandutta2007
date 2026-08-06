@@ -394,14 +394,6 @@
     <a href="https://wakatime.com/@9b77cc98-5693-4a5a-a891-aebb4213974a"><img src="https://wakatime.com/badge/user/9b77cc98-5693-4a5a-a891-aebb4213974a.svg" alt="Total time coded since May 21 2015" /></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/ishandutta2007?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2" width="38%" alt="@ishandutta2007's trophy stats" /></a>
-</p>
-
-<p align="center">
-    <a href="https://gist.github.com/ishandutta2007"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="ishandutta2007 :: Visitor's Count" /></a>
-</p>
-
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 

@@ -97,13 +97,13 @@
     </tr>
     <tr>
       <!-- $10+/month -->
-      <!-- <td>
+      <td>
         <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
+          <a href="https://github.com/vornyxyz"><img src="https://github.com/vornyxyz" alt="@username" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
+          <a align="center" href="https://github.com/vornyxyz"><b>vornyxyz</b></a>
         </b>
-      </td> -->
+      </td>
       <!-- $5+/month -->
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>

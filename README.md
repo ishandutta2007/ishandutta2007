@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
- <h3 align="center">A techie passionate about AI</h3>
  <h4 align="center"> My popular opensource repos [https://ishandutta2007.github.io/star-history-user/?user=ishandutta2007] </h4>
  <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
  <h4 align="center"> One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
@@ -18,8 +17,6 @@
 
 </p>
 
-## 📊 Profile Overview
-
 ![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ishandutta2007?style=social)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium)](https://medium.com/@ishandutta2007)
@@ -35,8 +32,6 @@
 
 
 <br>
-
-
 
 - 😄 I have interests in HPC/Generative AI/Web3/RPA
 - 🔭 I’m currently working on ChatGPT integrations
@@ -61,6 +56,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+
 
 <br/>
 

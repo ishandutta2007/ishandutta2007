@@ -14,6 +14,7 @@
   <a href="https://medium.com/@ishandutta2007">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium" alt="Medium" style="vertical-align:middle" />
   </a>
+  <a href="https://wakatime.com/@9b77cc98-5693-4a5a-a891-aebb4213974a"><img src="https://wakatime.com/badge/user/9b77cc98-5693-4a5a-a891-aebb4213974a.svg" alt="Total time coded since May 21 2015" /></a>
 </p>
 
 ---
@@ -339,10 +340,6 @@
     <br>
     <br>
 </div>
-
-<p align="center">
-    <a href="https://wakatime.com/@9b77cc98-5693-4a5a-a891-aebb4213974a"><img src="https://wakatime.com/badge/user/9b77cc98-5693-4a5a-a891-aebb4213974a.svg" alt="Total time coded since May 21 2015" /></a>
-</p>
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 

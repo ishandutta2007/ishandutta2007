@@ -106,42 +106,18 @@
       </td>
     </tr>
   </table>
-
-  <a href="https://github.com/sponsors/ishandutta2007/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://github.com/sponsors/ishandutta2007/">
+    <img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/>
+  </a>
 </details>
 
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-
+<div> 
+  <summary>
+    <h2>📊 Github Stats and Activity</h2>
+  </summary>
   <h3>💻 GitHub Profile Stats</h3>
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ishandutta2007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishandutta2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#148](https://github.com/ishandutta2007/github-readme-youtube-cards/pull/148) in [ishandutta2007/github-readme-youtube-cards](https://github.com/ishandutta2007/github-readme-youtube-cards)
-2. 🎉 Merged PR [#619](https://github.com/ishandutta2007/github-readme-streak-stats/pull/619) in [ishandutta2007/github-readme-streak-stats](https://github.com/ishandutta2007/github-readme-streak-stats)
-3. 🗣 Commented on [#619](https://github.com/ishandutta2007/github-readme-streak-stats/issues/619) in [ishandutta2007/github-readme-streak-stats](https://github.com/ishandutta2007/github-readme-streak-stats)
-4. 🗣 Commented on [#618](https://github.com/ishandutta2007/github-readme-streak-stats/issues/618) in [ishandutta2007/github-readme-streak-stats](https://github.com/ishandutta2007/github-readme-streak-stats)
-5. 🗣 Commented on [#616](https://github.com/ishandutta2007/github-readme-streak-stats/issues/616) in [ishandutta2007/github-readme-streak-stats](https://github.com/ishandutta2007/github-readme-streak-stats)
-<!--END_SECTION:activity-->
-
-  <h3>🌟 Sponsors</h3>
-
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-  <a href="https://github.com/sponsors/ishandutta2007/"><img src="https://raw.githubusercontent.com/ishandutta2007/ishandutta2007/main/metrics-sponsors.svg" /></a>
-
-</details>
-
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@ishandutta2007"><img src="https://holopin.me/ishandutta2007" alt="@ishandutta2007&#39;s Holopin board"></a></p>
-</details>
+</div>
 
 # 💻 My favorite tools and technologies
 

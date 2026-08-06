@@ -122,6 +122,16 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ishandutta2007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishandutta2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <p align="center">
+      <!--
+  <a href="https://github.com/ishandutta2007?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@ishandutta2007's github-readme-stats"/></a>
+  -->
+      <a href="https://github.com/ishandutta2007?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ishandutta2007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@ishandutta2007's github-readme-stats"
+          /></a>
+      <a href="https://github.com/ishandutta2007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ishandutta2007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@ishandutta2007's github-readme-streak-stats" /></a>
+  </p>
+
 </div>
 
 # 💻 My favorite tools and technologies
@@ -338,15 +348,6 @@
     <br>
     <br>
 </div>
-
-<p align="center">
-    <!--
-<a href="https://github.com/ishandutta2007?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@ishandutta2007's github-readme-stats"/></a>
--->
-    <a href="https://github.com/ishandutta2007?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ishandutta2007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@ishandutta2007's github-readme-stats"
-        /></a>
-    <a href="https://github.com/ishandutta2007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ishandutta2007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@ishandutta2007's github-readme-streak-stats" /></a>
-</p>
 
 <p align="center">
     <a href="https://wakatime.com/@9b77cc98-5693-4a5a-a891-aebb4213974a"><img src="https://wakatime.com/badge/user/9b77cc98-5693-4a5a-a891-aebb4213974a.svg" alt="Total time coded since May 21 2015" /></a>

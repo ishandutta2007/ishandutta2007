@@ -23,7 +23,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ishandutta2007?style=social)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ishandutta2007)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ishandutta2007)
 
 ---
 

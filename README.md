@@ -30,8 +30,6 @@
 <br>
 
 - 😄 I have interests in HPC/Generative AI/Web3/RPA
-- 🔭 I’m currently working on ChatGPT integrations
-- 🌱 I’m currently learning Langchain and Mediachain
 - 👯 I’m looking to collaborate on ChatGPT/AI
 
 

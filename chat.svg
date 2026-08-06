@@ -279,7 +279,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 168)" class="msg-7">
-    <rect width="550" height="42" rx="18.0355" class="bubble" />
+    <rect width="600" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/ishandutta2007">https://twitter.com/ishandutta2007</a> or mail: ishandutta2007@gmail.com</text>
   </g>
 

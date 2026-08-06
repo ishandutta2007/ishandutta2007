@@ -267,135 +267,128 @@
 # 💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="65" height="65" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="65" height="65" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="icon" width="65" height="65" />
-      <br>Scikit-learn
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
-      <br>Keras
-    </td>
-    <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
-      <br>Hugging Face
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
+    <table align="center">
+        <tr>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI" />
-      <br>OpenAI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
-</table>
-<br><br>
-
-
+                <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="65" height="65" />
+                <br>TensorFlow
+            </td>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+                </a>
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+                <br>C++
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="65" height="65" />
+                <br>PyTorch
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+                <br>MySQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+                <br>TypeScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+                <br>AWS
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+                <br>C#
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="icon" width="65" height="65" />
+                <br>Scikit-learn
+                <td align="center" width="96">
+                    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+                    <br>Github
+                </td>
+                <td align="center" width="96">
+                    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+                    <br>Git
+                </td>
+                <td align="center" width="96">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
+                    <br>Keras
+                </td>
+                <td align="center" width="96">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+                    <br>Pandas
+                </td>
+                <td align="center" width="96">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
+                    <br>NumPy
+                </td>
+                <td align="center" width="96">
+                    <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+                    <br>OpenCV
+                </td>
+                <td align="center" width="96">
+                    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+                    <br>Hugging Face
+                </td>
+                <td align="center" width="96">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
+                    <br>Jupyter
+                </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+                <br>MongoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+                <br>Nodejs
+            </td>
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
+                <br>Matplotlib
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+                <br>VsCode
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI" />
+                <br>OpenAI
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+                <br>GraphQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+                <br>PostgreSQL
+            </td>
+        </tr>
+    </table>
+    <br>
+    <br>
 </div>
 
-
 <p align="center">
-
-<!--
+    <!--
 <a href="https://github.com/ishandutta2007?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@ishandutta2007's github-readme-stats"/></a>
 -->
-
-<a href="https://github.com/ishandutta2007?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ishandutta2007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ishandutta2007's github-readme-stats"/></a>
-
-<a href="https://github.com/ishandutta2007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ishandutta2007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@ishandutta2007's github-readme-streak-stats"/></a>
-
+    <a href="https://github.com/ishandutta2007?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ishandutta2007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@ishandutta2007's github-readme-stats"
+        /></a>
+    <a href="https://github.com/ishandutta2007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ishandutta2007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@ishandutta2007's github-readme-streak-stats" /></a>
 </p>
-
-
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -405,19 +398,14 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-
 <p align="center">
-<a href="https://wakatime.com/@ishandutta2007"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ishandutta2007&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@ishandutta2007's wakatime stats"/></a>
- 
-<a href="https://github.com/ishandutta2007?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@ishandutta2007's trophy stats"/></a>
+    <a href="https://wakatime.com/@ishandutta2007"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ishandutta2007&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@ishandutta2007's wakatime stats" /></a>
+
+    <a href="https://github.com/ishandutta2007?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2" width="38%" alt="@ishandutta2007's trophy stats" /></a>
 </p>
 
-
-
-
-
 <p align="center">
-<a href="https://gist.github.com/ishandutta2007"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="ishandutta2007 :: Visitor's Count" /></a>
+    <a href="https://gist.github.com/ishandutta2007"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="ishandutta2007 :: Visitor's Count" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">

@@ -99,7 +99,7 @@
       <!-- $10+/month -->
       <td>
         <div align="center">
-          <a href="https://github.com/vornyxyz"><img src="https://github.com/vornyxyz" alt="@username" width="52" /></a>
+          <a href="https://github.com/vornyxyz"><img src="https://github.com/vornyxyz" alt="@vornyxyz" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/vornyxyz"><b>vornyxyz</b></a>
         </b>

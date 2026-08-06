@@ -10,16 +10,17 @@
 
 <p align="center">
 
- [![committers.top badge](https://user-badge.committers.top/india_private/ishandutta2007.svg)](https://user-badge.committers.top/india_private/ishandutta2007)
-<a href="https://github.com/ishandutta2007">
+  [![committers.top badge](https://user-badge.committers.top/india_private/ishandutta2007.svg)](https://user-badge.committers.top/india_private/ishandutta2007)
+  <a href="https://github.com/ishandutta2007">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-</a>
+  </a>
+
+  ![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/ishandutta2007?style=social)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium)](https://medium.com/@ishandutta2007)
 
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ishandutta2007?style=social)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium)](https://medium.com/@ishandutta2007)
 
 ---
 

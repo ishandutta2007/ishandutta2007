@@ -366,10 +366,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI" />
       <br>OpenAI
     </td>
-              <td align="center" width="96">
-        <img src="https://python.langchain.com/img/favicon.ico" width="48" height="48" alt="LangChain" />
-      <br>LangChain
-    </td>
+
               <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" width="48" height="48" alt="CUDA" />
       <br>CUDA
@@ -482,15 +479,10 @@
 <a href="https://developer.nvidia.com/tensorrt" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" alt="TensorRT" height="25" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" height="25" /></a>  
-<a href="https://langchain.com/" target="_blank"><img style="margin: 10px" src="https://python.langchain.com/img/favicon.ico" alt="LangChain" height="25" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
-<a href="https://www.llamaindex.ai/" target="_blank"><img style="margin: 10px" src="https://www.llamaindex.ai/favicon.ico" alt="LlamaIndex" height="25" /></a>  
-<a href="https://wandb.ai/" target="_blank"><img style="margin: 10px" src="https://wandb.ai/favicon.ico" alt="Weights & Biases" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href="https://mlflow.org/" target="_blank"><img style="margin: 10px" src="https://mlflow.org/favicon.ico" alt="MLflow" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.ray.io/" target="_blank"><img style="margin: 10px" src="https://www.ray.io/favicon.ico" alt="Ray" height="25" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="25" /></a>  

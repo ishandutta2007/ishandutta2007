@@ -279,8 +279,8 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 168)" class="msg-7">
-    <rect width="560" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Reach out via <a xlink:href="https://twitter.com/ishandutta2007">https://twitter.com/ishandutta2007</a> or mail: ishandutta2007@gmail.com</text>
+    <rect width="550" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Reach out via mail: ishandutta2007@gmail.com or <a xlink:href="https://x.com/ishandutta2007">x.com/ishandutta2007</a></text>
   </g>
 
   <!-- Top Repos -->

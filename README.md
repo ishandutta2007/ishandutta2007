@@ -116,6 +116,11 @@
     <h2>📊 Github Stats and Activity</h2>
   </summary>
   <h3>💻 GitHub Profile Stats</h3>
+
+  ![](https://github-readme-stats.vercel.app/api?username=ishandutta2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ishandutta2007&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ishandutta2007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishandutta2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
@@ -348,12 +353,6 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishandutta2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishandutta2007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <br/>  

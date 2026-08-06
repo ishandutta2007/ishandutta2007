@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
- <h3 align="center">A techie passionate about AI & Blockchain</h3>
+ <h3 align="center">A techie passionate about AI</h3>
  <h4 align="center"> My popular opensource repos [https://ishandutta2007.github.io/star-history-user/?user=ishandutta2007] </h4>
  <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
  <h4 align="center"> One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
@@ -41,12 +41,12 @@
 - 😄 I have interests in HPC/Generative AI/Web3/RPA
 - 🔭 I’m currently working on ChatGPT integrations
 - 🌱 I’m currently learning Langchain and Mediachain
-- 👯 I’m looking to collaborate on ChatGPT/AI/Blockchain
+- 👯 I’m looking to collaborate on ChatGPT/AI
 
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
-  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI/Blockchain;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->

@@ -8,9 +8,13 @@
  <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
 
 
-![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ishandutta2007?style=social)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium)](https://medium.com/@ishandutta2007)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ishandutta2007?style=social" alt="GitHub followers" style="vertical-align:middle" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007?style=social" alt="GitHub User's stars" style="vertical-align:middle" />
+  <a href="https://medium.com/@ishandutta2007">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium" alt="Medium" style="vertical-align:middle" />
+  </a>
+</p>
 
 ---
 

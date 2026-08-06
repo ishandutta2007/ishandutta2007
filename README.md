@@ -96,15 +96,11 @@
       <th>$5+/month</th>
     </tr>
     <tr>
-      <!-- $10+/month -->
       <td>
         <div align="center">
-          <a href="https://github.com/vornyxyz"><img src="https://github.com/vornyxyz" alt="@vornyxyz" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/vornyxyz"><b>vornyxyz</b></a>
+          <a href="https://github.com/vornyxyz"><img src="https://avatars.githubusercontent.com/u/6249596?v=4&s=32" width="32" height="32" alt="vornyxyz" /></a>
         </b>
       </td>
-      <!-- $5+/month -->
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
       </td>

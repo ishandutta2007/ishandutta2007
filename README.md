@@ -104,9 +104,6 @@
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
       </td>
-      <td>
-        <a href="https://github.com/vornyxyz"><img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" alt="vornyxyz" /></a>
-      </td>
     </tr>
   </table>
 

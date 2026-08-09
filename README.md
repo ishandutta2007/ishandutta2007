@@ -9,13 +9,19 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ishandutta2007?style=social" alt="GitHub followers" style="vertical-align:middle" />
+  <a href="https://github.com/ishandutta2007?tab=followers">
+    <img src="https://img.shields.io/github/followers/ishandutta2007?label=Followers&style=social" />
+  </a>
   <img src="https://img.shields.io/github/stars/ishandutta2007?style=social" alt="GitHub User's stars" style="vertical-align:middle" />
+  <a href="https://github.com/ishandutta2007">
+    <img src="https://komarev.com/ghpvc/?username=ishandutta2007&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a> 
   <a href="https://medium.com/@ishandutta2007">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium" alt="Medium" style="vertical-align:middle" />
   </a>
   <a href="https://wakatime.com/@9b77cc98-5693-4a5a-a891-aebb4213974a"><img src="https://wakatime.com/badge/user/9b77cc98-5693-4a5a-a891-aebb4213974a.svg" alt="Total time coded since May 21 2015" /></a>
 </p>
+
 
 ---
 

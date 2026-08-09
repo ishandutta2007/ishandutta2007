@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/stars/ishandutta2007?style=social" alt="GitHub User's stars" style="vertical-align:middle" />
   </a> 
   <a href="https://github.com/ishandutta2007">
-    <img src="https://komarev.com/ghpvc/?username=ishandutta2007&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=ishandutta2007&label=Profile%20Views&base=10000&color=0e75b6&style=flat" />
   </a> 
   <a href="https://medium.com/@ishandutta2007">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium" alt="Medium" style="vertical-align:middle" />

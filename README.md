@@ -3,9 +3,8 @@
 
  <h4 align="center"> My popular opensource repos [https://ishandutta2007.github.io/star-history-user/?user=ishandutta2007] </h4>
  <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
- <h4 align="center"> One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
- <h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
- <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
+ <h4 align="center"> One of <a href="https://www.spoj.com/ranks/users/IN/">Top 30 Spoj users</a> from India </h4>
+ <h4 align="center"> One of Top 500 <a href="https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets">stackoverflow</a> and <a href="https://data.stackexchange.com/math/query/53058/top-users-by-country">math.stackexchange</a> users from India.</h4>
 
 
 <p align="center">

@@ -117,6 +117,16 @@
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
       </td>
     </tr>
+    <tr>
+      <th>$10+/month</th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/2298741867"><img src="https://avatars.githubusercontent.com/u/205374160?v=4&s=32" width="32" height="32" alt="2298741867" /></a>
+        </b>
+      </td>
+    </tr>
   </table>
   <a href="https://github.com/sponsors/ishandutta2007/">
     <img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/>

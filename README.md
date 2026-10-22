@@ -82,7 +82,8 @@
 
 <!-- Social badges section -->
 <p align="center">
-   <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
+  <a href="https://gitranks.com/profile/ishandutta2007"><img src="https://gitranks.com/api/badge/v2/ishandutta2007?ranking=s&context=global&type=position&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" alt="GitRanks badge for ishandutta2007" /></a>
+ <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishandutta2007"/>
    </a>
   <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
@@ -94,10 +95,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://stars.github.com/profiles/ishandutta2007/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
 
 <details open> 
   <summary><h2>🌠 Top Sponsors</h2></summary>
